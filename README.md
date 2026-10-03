@@ -1,6 +1,6 @@
 # sjsolver
 
-Simple DFS solver for the [Sanajahti](https://sanajahti.fi/) word game.
+Simple DFS solver for the Sanajahti word game.
 
 ## Requirements
 
