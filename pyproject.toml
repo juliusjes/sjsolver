@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sjsolver"
+version = "0.1.0"
+
+dependencies = [
+    "pandas"
+]
+
+requires-python = ">= 3.8"
+description = "DFS solver for Sanajahti game"
+
+[tool.setuptools.packages.find]
+where = ["src"]
